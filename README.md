@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cyberzzen
+- 👋 Hi, I’m @cyberzzen aka Adam
 - 👀 I’m interested in cyber security amongst lots of other things!
-- 🌱 I’m currently learning scripting
+- 🌱 I’m currently learning scripting for blue teams
 
 - 📫 You can find me on Twitter (X?) @_4_d_4_m_
 
